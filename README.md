@@ -14,9 +14,9 @@ The implementation is based on the **ordpy** library, which provides efficient t
 - **Reproducible figures**: Scripts to generate key plots used in analysis.  
 
 ## Supported Systems  
-- **Logistic Map** (\( r \)-parameterized)  
-- **Hénon Map** (\( a, b \)-parameterized)  
-- **Schuster Map** (with parameter \( q \))  
-- **White and correlated noise** (for various \( D \))  
+- **Logistic Map**  
+- **Hénon Map**
+- **Schuster Map** 
+- **White and correlated noise**  
 
 Figures illustrate the entropy-complexity plane for **BP with embedding dimension \( D \)** and **histograms with \( D! \) bins**, enabling a detailed characterization of dynamical behavior.  
